@@ -16,4 +16,4 @@ In the unzipped folder open "config.js" and modify it as you want
 
 
 NOTE:
-I continue the project and improve it because plague creator doesn't know how to program 🤣
+I continue the project and improve it because plague creator quit
