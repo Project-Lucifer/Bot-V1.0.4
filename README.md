@@ -18,3 +18,8 @@ In the unzipped folder open "config.js" and modify it as you want
 NOTE:
 
 I will continue to update and improve the project because plague creator doesn't want to update anymore
+
+# I will add in the future
+
+- I will make the bot faster to respond to commands.
+- I will make it controllable by discord (maybe)
