@@ -4,7 +4,7 @@ steps:
 
 1. create a new fortnite account here: https://www.epicgames.com/store/
 
-2. Download and unzip this: https://github.com/PlagueCreator/Bot-V1.0.4
+2. Download and unzip this: https://github.com/Project-Lucifer/Bot-V1.0.4
 
 In the unzipped folder open "config.js" and modify it as you want
 
@@ -16,4 +16,4 @@ In the unzipped folder open "config.js" and modify it as you want
 
 
 NOTE:
-this project will no longer be updated!
+I continue the project and improve it because plague creator doesn't know how to program 🤣
