@@ -1,6 +1,6 @@
 {
-    "email": "",
-    "password": "",
+    "email": "bot email@gmail.com",
+    "password": "bot password",
     "cid": "cid_434_athena_commando_f_stealthhonor",
     "bid": "BID_004_BlackKnight",
     "pid": "Pickaxe_Lockjaw",
