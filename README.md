@@ -22,4 +22,4 @@ I will continue to update and improve the project because plague creator doesn't
 # I will add in the future
 
 - I will make the bot faster to respond to commands.
-- I will make it controllable by discord (maybe)
+- I will make it controllable with discord (maybe)
