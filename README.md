@@ -15,10 +15,6 @@ In the unzipped folder open "config.js" and modify it as you want
 5. Enjoy :)
 
 
-NOTE:
-
-I will continue to update and improve the project because plague creator doesn't want to update anymore
-
 # I will add in the future
 
 - I will make the bot faster to respond to commands.
