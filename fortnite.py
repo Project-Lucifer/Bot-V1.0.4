@@ -15,7 +15,7 @@ value derives, entirely or substantially, from the functionality
 of the Software. Any license notice or attribution required by
 the License must also include this Commons Clause License
 Condition notice.
-Software: "Fortnite lobbybot"
+Software: 
 License: Apache 2.0
 """
 
@@ -54,12 +54,12 @@ except ModuleNotFoundError:
     exit()
 
 print(f'  ')
-print(color.RED + f'   ██████╗ ██╗   ██╗     ██████╗  ██████╗ ████████╗')
-print(color.RED + f'   ██╔══██╗╚██╗ ██╔╝     ██╔══██╗██╔═══██╗╚══██╔══╝')
-print(color.RED + f'   ██████╔╝ ╚████╔╝█████╗██████╔╝██║   ██║   ██║   ')
-print(color.RED + f'   ██╔═══╝   ╚██╔╝ ╚════╝██╔══██╗██║   ██║   ██║   ')
-print(color.RED + f'   ██║        ██║        ██████╔╝╚██████╔╝   ██║   ')
-print(color.RED + f'   ╚═╝        ╚═╝        ╚═════╝  ╚═════╝    ╚═╝   ')
+print(color.CYAN + f'   ██████╗ ██╗   ██╗     ██████╗  ██████╗ ████████╗')
+print(color.CYAN + f'   ██╔══██╗╚██╗ ██╔╝     ██╔══██╗██╔═══██╗╚══██╔══╝')
+print(color.CYAN + f'   ██████╔╝ ╚████╔╝█████╗██████╔╝██║   ██║   ██║   ')
+print(color.CYAN + f'   ██╔═══╝   ╚██╔╝ ╚════╝██╔══██╗██║   ██║   ██║   ')
+print(color.CYAN + f'   ██║        ██║        ██████╔╝╚██████╔╝   ██║   ')
+print(color.CYAN + f'   ╚═╝        ╚═╝        ╚═════╝  ╚═════╝    ╚═╝   ')
 print(f'  ')
 
 def debugOn():
@@ -1615,6 +1615,3 @@ try:
     client.run()
 except fortnitepy.AuthException as e:
     print(Fore.RED + f" [PYBOT] [{getTime()}] [ERROR] {e}")
-      
-
-      
