@@ -14,6 +14,8 @@ In the unzipped folder open "config.js" and modify it as you want
 
 5. Enjoy :)
 
+this project was taken from @PlagueCreator
+
 
 # I will add in the future
 
